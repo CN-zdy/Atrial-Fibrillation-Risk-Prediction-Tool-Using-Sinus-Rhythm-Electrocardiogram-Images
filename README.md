@@ -8,4 +8,4 @@ This easy-to-use tool predicts the risk of atrial fibrillation using sinus-rhyth
   
   3:The uploaded ECG image must use a 12 × 1 lead layout. Other lead layouts are not currently supported.
 
-You can access the tool in the following ways: http://110.157.241.24:18024/#/
+You can access the tool in the following ways: http://110.157.241.24:18024
